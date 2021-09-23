@@ -1,0 +1,63 @@
+p {
+    font-size:14;
+    color:black;
+    font: "font: 15px Arial, sans-serif;"
+}
+
+p.speech {
+    font: "font: 15px Arial, sans-serif;"
+}
+
+P.stage-direction{
+    background-color: skyblue;
+    margin-left:20px;
+
+}
+
+p.stage-direction:hover{
+    background-color:yellow;
+    color:red;
+}
+
+h5.DUMBY{
+     color: mediumblue;
+     margin-left:10px;
+}
+
+h5.LADY STUTFIELD{
+    color: mediumblue;
+    margin-left:10px;
+}
+h5.DUCHESS OF BERWICK{
+    color: mediumblue;
+    margin-left:10px;
+}
+
+
+h5.PARKER{
+    color: mediumblue;
+}
+
+h5.HOPPER{
+    color: mediumblue;
+    border: green;
+}
+
+h5.DUMBY:hover{
+    color: red;
+    text-shadow:2px 3px 5px green;
+    border: red;
+    filter: blur(1px);
+}
+
+h5.PARKER:hover{
+    color: red;
+    text-shadow:2px 3px 5px green;
+    border: red;
+    filter: blur(1px);
+}
+h5.HOOPER:hover{
+    color: red;
+    text-shadow:2px 3px 5px green;
+    border: red;
+    filter: blur(1px);
